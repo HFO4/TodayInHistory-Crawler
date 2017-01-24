@@ -5,7 +5,7 @@ import datetime
 import re
 import mysql
 
-typeList = ["大事记", "出生", "逝世"]
+typeList = [".E5.A4.A7.E4.BA.8B.E8.AE.B0", ".E5.87.BA.E7.94.9F", ".E9.80.9D.E4.B8.96"]
 
 def getDateList():
     list = []
